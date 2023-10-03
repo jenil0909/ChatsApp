@@ -1,0 +1,20 @@
+// Use the pluginManagement block to define repositories for plugins only
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+// Use the dependencyResolutionManagement block to define repositories for both plugins and dependencies
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
+}
+rootProject.name = "ChatsApp"
+include ':app'

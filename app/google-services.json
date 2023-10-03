@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1069763118485",
+    "firebase_url": "https://chatsapp-b7ccf-default-rtdb.firebaseio.com",
+    "project_id": "chatsapp-b7ccf",
+    "storage_bucket": "chatsapp-b7ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069763118485:android:54013aae4e1dc1b28b629c",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZqMPc3PBAnUybX1qAltSgiu-1wRxlb_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069763118485:android:0f1ac3d1d11001ae8b629c",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZqMPc3PBAnUybX1qAltSgiu-1wRxlb_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

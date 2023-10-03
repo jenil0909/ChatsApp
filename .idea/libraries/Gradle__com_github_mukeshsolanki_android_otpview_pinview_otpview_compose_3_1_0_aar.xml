@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mukeshsolanki.android-otpview-pinview:otpview-compose:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b2186d8afc7abdff3bb3bb0f38b048e8/transformed/jetified-otpview-compose-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b2186d8afc7abdff3bb3bb0f38b048e8/transformed/jetified-otpview-compose-3.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mukeshsolanki.android-otpview-pinview/otpview-compose/3.1.0/f722dc879f96e3df18e748beb12b966516a5c29c/otpview-compose-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
